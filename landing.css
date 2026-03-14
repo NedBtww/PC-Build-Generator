@@ -1,0 +1,76 @@
+/* landing.css — Clean modern redesign for PC Finder */
+:root{
+  --bg-1: #0f1724;
+  --bg-2: #2b1b5f;
+  --accent: #6d7bff;
+  --muted: #b9c0d6;
+  --card-bg: rgba(255,255,255,0.04);
+  --glass: rgba(255,255,255,0.03);
+}
+
+*{ box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background-color: #020617; /* fond plein */
+}
+
+body {
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+  background:
+    radial-gradient(800px 400px at 10% 10%, #2b1b5f 0%, transparent 45%),
+    radial-gradient(800px 400px at 90% 90%, #3e59ff 0%, transparent 45%),
+    linear-gradient(180deg, #020617 0%, #020617 100%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #e9eef8;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+.container{
+  width:90%;
+  max-width:1100px;
+  margin:0 auto;
+  padding:36px 0 80px;
+}
+.header{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:18px;
+  padding:20px 0;
+}
+.brand{
+  display:flex;align-items:center;gap:12px;font-weight:700;font-size:1.05rem;color:var(--accent);
+}
+.logo{
+  width:42px;height:42px;border-radius:10px;background:linear-gradient(135deg,var(--accent),#a87bff);display:flex;align-items:center;justify-content:center;font-weight:800;color:#fff
+}
+.nav{display:flex;gap:14px;align-items:center}
+.nav a{color:var(--muted);text-decoration:none;padding:8px 12px;border-radius:8px}
+.nav a:hover{color:#fff;background:rgba(255,255,255,0.03)}
+.hero{
+  display:flex;flex-direction:column;align-items:center;text-align:center;padding:80px 12px 60px;
+}
+.hero h1{font-size:2.6rem;margin:0 0 14px;color:#ffffff;line-height:1.03}
+.hero p{max-width:720px;color:var(--muted);margin:0 0 22px}
+.cta-row{display:flex;gap:12px;align-items:center}
+.btn{background:linear-gradient(90deg,var(--accent),#b678ff);color:#fff;padding:12px 20px;border-radius:12px;border:none;font-weight:700;cursor:pointer;box-shadow:0 8px 30px rgba(100,80,255,0.14)}
+.btn.ghost{background:transparent;border:1px solid rgba(255,255,255,0.06);color:var(--muted);box-shadow:none}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-top:34px}
+.card{background:var(--card-bg);padding:22px;border-radius:12px;border:1px solid rgba(255,255,255,0.04);box-shadow:0 6px 24px rgba(10,10,20,0.35)}
+.card h3{margin:0 0 8px;color:#fff}
+.card p{margin:0;color:var(--muted);font-size:0.95rem}
+.section-title{margin-top:46px;text-align:center;font-size:1.6rem;color:#fff}
+.faq-list{max-width:760px;margin:24px auto 60px}
+.faq-item{background:var(--glass);padding:14px 18px;border-radius:10px;margin-bottom:10px;border:1px solid rgba(255,255,255,0.03);cursor:pointer}
+.faq-item h4{margin:0;color:#fff}
+.faq-item p{margin:8px 0 0;color:var(--muted);display:none}
+.footer{padding:28px 0;text-align:center;color:var(--muted);font-size:0.9rem}
+/* responsive */
+@media(max-width:900px){.grid{grid-template-columns:repeat(2,1fr)}.hero h1{font-size:2.2rem}}
+@media(max-width:640px){.grid{grid-template-columns:1fr}.header{padding:12px 0}.container{padding:18px 0 60px}}

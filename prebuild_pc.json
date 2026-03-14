@@ -1,0 +1,354 @@
+[
+  {
+    "nom": "CSL Sprint 5665",
+    "url": "https://www.csl-computer.com/fr/pc-csl-sprint-5665-ryzen-5-8892.html",
+    "prix_normal": 799,
+    "processeur": "AMD Ryzen 5 8400F",
+    "ram": "16 Go DDR5",
+    "stockage": "500 Go SSD M.2",
+    "carte_graphique": "NVIDIA GeForce RTX 5060 8 Go",
+    "usage_recommande": "Gaming 1080p, e-sport, streaming 1080p, multitâche léger"
+  },
+  {
+    "nom": "PC Gamer First Blood - RX 9060 XT",
+    "url": "https://infomaxparis.com/fr/pc-gamer/5022-pc-gamer-first-blood.html",
+    "prix_normal": 799,
+    "processeur": "AMD Ryzen 5 5500",
+    "ram": "16 Go DDR4",
+    "stockage": "1 To SSD NVMe",
+    "carte_graphique": "AMD Radeon RX 9060 XT 16 Go",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, e-sport, streaming 1080p"
+  },
+  {
+    "nom": "PC Gamer November",
+    "url": "https://infomaxparis.com/fr/pc-gamer/31604-pc-gamer-month.html",
+    "prix_normal": 1234,
+    "processeur": "AMD Ryzen 7 9700X",
+    "ram": "16 Go DDR5",
+    "stockage": "1 To SSD NVMe",
+    "carte_graphique": "NVIDIA GeForce RTX 5070",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, e-sport, création de contenu, multitâche, streaming avancé"
+  },
+  {
+    "nom": "CSL Sprint 5877 (Ryzen 7)",
+    "url": "https://www.csl-computer.com/fr/pc-gamer/pc-csl-sprint-5877-ryzen-7.html",
+    "prix_special": 1549,
+    "prix_normal": 1699,
+    "processeur": "AMD Ryzen 7 7800X3D",
+    "ram": "32 Go DDR5",
+    "stockage": "1 To SSD M.2",
+    "carte_graphique": "AMD Radeon RX 9070 XT 16 Go",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, Gaming 4K, e-sport, création de contenu, multitâche exigeant, streaming avancé"
+  },
+  {
+    "nom": "CSL Sprint 5720",
+    "url": "https://www.csl-computer.com/fr/pc-csl-sprint-5720-ryzen-7.html",
+    "prix_normal": 1069,
+    "processeur": "AMD Ryzen 7 8700F",
+    "ram": "32 Go DDR5",
+    "stockage": "1 To SSD M.2",
+    "carte_graphique": "NVIDIA GeForce RTX 5070 12 Go",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, e-sport, création de contenu, multitâche exigeant, streaming avancé"
+  },
+  {
+    "nom": "PC Gamer Black Expert - RTX 5070 Ti",
+    "url": "https://www.grosbill.com/univers-gamer/pc-assembles/pc-gamer-grosbill-1734-156134.aspx",
+    "prix_special": 1899,
+    "prix_normal": 2249,
+    "processeur": "Intel Core i7-14700KF",
+    "ram": "32 Go DDR5",
+    "stockage": "2 To SSD NVMe",
+    "carte_graphique": "NVIDIA GeForce RTX 5070 Ti",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, Gaming 4K, e-sport, création de contenu, multitâche exigeant, streaming avancé"
+  },
+  {
+    "nom": "PC Gamer Rising",
+    "url": "https://infomaxparis.com/fr/pc-gamer/10557-pc-gamer-rising.html",
+    "prix_normal": 1599,
+    "processeur": "AMD Ryzen 7 8700F",
+    "ram": "32 Go DDR5",
+    "stockage": "1 To SSD NVMe",
+    "carte_graphique": "NVIDIA GeForce RTX 5070 Ti",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, Gaming 4K, e-sport, création de contenu, multitâche exigeant, streaming avancé"
+  },
+  {
+    "nom": "PC Gamer Hasaki",
+    "url": "https://infomaxparis.com/fr/pc-gamer/31982-117535-pc-gamer-hasaki.html",
+    "prix_normal": 669,
+    "processeur": "AMD Ryzen 5 5500",
+    "ram": "16 Go DDR4",
+    "stockage": "480 Go SSD",
+    "carte_graphique": "NVIDIA GeForce RTX 5060",
+    "usage_recommande": "Gaming 1080p, e-sport, streaming 1080p"
+  },
+  {
+    "nom": "PC Gamer Black Lotus",
+    "url": "https://infomaxparis.com/fr/pc-gamer/31546-268097-pc-gamer-black-lotus.html",
+    "prix_normal": 1749,
+    "processeur": "AMD Ryzen 7 9800X3D",
+    "ram": "32 Go DDR5",
+    "stockage": "1 To SSD NVMe",
+    "carte_graphique": "AMD Radeon RX 9070 XT 16 Go",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, Gaming 4K, e-sport, streaming avancé, création de contenu, multitâche exigeant"
+  },
+  {
+    "nom": "PC Rift Radeon™ RX 9060 XT",
+    "url": "https://www.flowup.shop/shop/pc-rift-radeontm-rx-9060-xt-3755?category=2#attr=5715",
+    "prix_normal": 1158,
+    "processeur": "AMD Ryzen 5 9600X",
+    "ram": "32 Go DDR5",
+    "stockage": "1 To SSD NVMe",
+    "carte_graphique": "AMD Radeon RX 9060 XT 8 Go",
+    "usage_recommande": "Gaming 1080p, e-sport, multitâche, streaming 1080p, création de contenu"
+  },
+  {
+    "nom": "PC Gamer Savannah RTX 5060 Ti 8 GB",
+    "url": "https://www.flowup.shop/shop/pc-gamer-savannah-rtx-5060-ti-8-gb-309?category=2",
+    "prix_normal": 977,
+    "processeur": "AMD Ryzen 7 5700X",
+    "ram": "16 Go DDR4",
+    "stockage": "1 To SSD",
+    "carte_graphique": "NVIDIA GeForce RTX 5060 Ti 8 Go",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, e-sport, création de contenu, multitâche exigeant, streaming 1080p"
+  },
+  {
+    "nom": "PC Gamer Stargazer",
+    "url": "https://powerlab.fr/pc-gaming/4657-pc-gamer-stargazer.html",
+    "prix_normal": 899,
+    "processeur": "AMD Ryzen 7 5700X",
+    "ram": "32 Go DDR4",
+    "stockage": "1 To SSD",
+    "carte_graphique": "NVIDIA GeForce RTX 5060 Ti 8 Go",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, e-sport, création de contenu, multitâche, streaming avancé"
+  },
+  {
+    "nom": "PC Gamer Advanced",
+    "url": "https://powerlab.fr/pc-gaming/2868-pc-gamer-advanced.html",
+    "prix_normal": 1049,
+    "processeur": "AMD Ryzen 7 8700F",
+    "ram": "16 Go DDR5",
+    "stockage": "1 To SSD NVMe",
+    "carte_graphique": "AMD Radeon RX 9060 XT 16 Go",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, e-sport, streaming avancé, création de contenu, multitâche exigeant"
+  },
+  {
+    "nom": "PC Gamer Hyperbeast",
+    "url": "https://powerlab.fr/pc-gaming/3203-pc-gamer-hyperbeast.html",
+    "prix_normal": 2699,
+    "processeur": "AMD Ryzen 7 9800X3D",
+    "ram": "32 Go DDR5 6000 MHz",
+    "stockage": "1 To SSD NVMe",
+    "carte_graphique": "NVIDIA GeForce RTX 5080 16 Go",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, Gaming 4K, e-sport, streaming intensif, création professionnelle, multitâche exigeant"
+  },
+  {
+    "nom": "PC Gamer Cybertek ATLAS",
+    "url": "https://www.cybertek.fr/univers-gamer/pc-assembles/pc-gamer-cybertek-1757-156148.aspx",
+    "prix_normal": 2599,
+    "processeur": "Intel Core i9-14900KF",
+    "ram": "32 Go DDR5 6000 MHz",
+    "stockage": "2 To SSD NVMe",
+    "carte_graphique": "MSI GeForce RTX 5080 16 Go",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, Gaming 4K, e-sport, Gaming 4K Ultra, création professionnelle, streaming intensif, multitâche exigeant"
+  },
+  {
+    "nom": "PC Gamer Cybertek 1649",
+    "url": "https://www.cybertek.fr/univers-gamer/pc-assembles/pc-gamer-cybertek-1649-154873.aspx",
+    "prix_normal": 1279,
+    "processeur": "AMD Ryzen 7 5700X",
+    "ram": "16 Go DDR4",
+    "stockage": "1 To SSD NVMe",
+    "carte_graphique": "NVIDIA GeForce RTX 5070",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, e-sport, création de contenu, streaming 1080p"
+  },
+  {
+    "nom": "PC Gamer TopAchat IN20030153",
+    "url": "https://www.topachat.com/pages/detail2_cat_est_ordinateurs_puis_rubrique_est_w_pcgam_ta_puis_ref_est_in20030153.html",
+    "prix_normal": 781,
+    "processeur": "AMD Ryzen 5 5500",
+    "ram": "16 Go DDR4",
+    "stockage": "500 Go SSD",
+    "carte_graphique": "AMD Radeon RX 9060",
+    "usage_recommande": "Gaming 1080p, e-sport, multitâche léger"
+  },
+  {
+    "nom": "PC Gamer Cygnus",
+    "url": "https://powerlab.fr/pc-gaming/4659-pc-gamer-cygnus.html",
+    "prix_normal": 719,
+    "processeur": "AMD Ryzen 5 5500",
+    "ram": "16 Go DDR4 3600 MHz",
+    "stockage": "1 To SSD",
+    "carte_graphique": "AMD Radeon RX 9060 XT 16 Go",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, e-sport, multitâche, streaming modéré"
+  },
+  {
+    "nom": "PC Gamer Super Nova GTX 1650",
+    "url": "https://univack.fr/pc-gamer/1183-pc-gamer-super-nova-gtx-1650.html",
+    "prix_normal": 499,
+    "processeur": "AMD Ryzen 5 3600",
+    "ram": "8 Go DDR4",
+    "stockage": "500 Go SSD",
+    "carte_graphique": "NVIDIA GeForce GTX 1650",
+    "usage_recommande": "Gaming 1080p, e-sport, gaming 1080p léger"
+  },
+  {
+    "nom": "LDLC Rig Gamer Intel Core i7 (PB00697392)",
+    "url": "https://www.ldlc.com/fiche/PB00697392.html",
+    "prix_normal": 1199,
+    "processeur": "Intel Core i7-14700F",
+    "ram": "16 Go DDR5",
+    "stockage": "1 To SSD NVMe",
+    "carte_graphique": "NVIDIA GeForce RTX 5060",
+    "usage_recommande": "Gaming 1080p, e-sport"
+  },
+  {
+    "nom": "LDLC MSI MEG Vision X (PB00668318)",
+    "url": "https://www.ldlc.com/fiche/PB00668318.html",
+    "prix_normal": 6599,
+    "processeur": "Intel Core Ultra 9 285K",
+    "ram": "64 Go DDR5",
+    "stockage": "2 To SSD NVMe",
+    "carte_graphique": "NVIDIA GeForce RTX 5090 32 Go",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, Gaming 4K, e-sport, création de contenu, multitâche exigeant, streaming avancé"
+  },
+  {
+    "nom": "LDLC Gaming AMD Ryzen 9 9950X3D (PB00675803)",
+    "url": "https://www.ldlc.com/fiche/PB00675803.html",
+    "prix_normal": 3599,
+    "processeur": "AMD Ryzen 9 9950X3D",
+    "ram": "32 Go DDR5",
+    "stockage": "1 To SSD NVMe",
+    "carte_graphique": "NVIDIA GeForce RTX 5080",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, Gaming 4K, e-sport, création de contenu, multitâche exigeant, streaming avancé"
+  },
+  {
+    "nom": "LDLC Rig Gaming Ryzen 7 (PB00686904)",
+    "url": "https://www.ldlc.com/fiche/PB00686904.html",
+    "prix_normal": 3399,
+    "processeur": "AMD Ryzen 7 9800X3D",
+    "ram": "32 Go DDR5",
+    "stockage": "2 To SSD NVMe",
+    "carte_graphique": "NVIDIA GeForce RTX 5080 16 Go",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, Gaming 4K, e-sport, création de contenu, multitâche exigeant, streaming avancé"
+  },
+  {
+    "nom": "MemoryPC Gaming PC Ryzen 5 5600X (557784)",
+    "url": "https://www.memorypc.fr/pc-gamer/amd-ryzen-5-557784/",
+    "prix_normal": 906,
+    "processeur": "AMD Ryzen 5 5600X",
+    "ram": "16 Go DDR5",
+    "stockage": "1 To SSD NVMe",
+    "carte_graphique": "AMD Radeon RX 9060 XT 16 Go",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, Gaming 4K, e-sport"
+  },
+  {
+    "nom": "MemoryPC Gaming PC Ryzen 5 7600 RTX 4070 (560629)",
+    "url": "https://www.memorypc.fr/pc-gamer/amd-ryzen-5-560629/",
+    "prix_normal": 1209,
+    "processeur": "AMD Ryzen 5 7500F",
+    "ram": "16 Go DDR5",
+    "stockage": "1 To SSD NVMe",
+    "carte_graphique": "AMD Radeon RX 9070 16 Go",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, Gaming 4K, e-sport"
+  },
+  {
+    "nom": "MemoryPC Gaming PC Ryzen 5 5500 (557636)",
+    "url": "https://www.memorypc.fr/pc-gamer/amd-ryzen-5-557636/",
+    "prix_normal": 654,
+    "processeur": "AMD Ryzen 5 5500",
+    "ram": "16 Go DDR4",
+    "stockage": "500 Go SSD NVMe",
+    "carte_graphique": "AMD Radeon RX 9060 8Go",
+    "usage_recommande": "Gaming 1080p, e-sport"
+  },
+  {
+    "nom": "MemoryPC Gaming PC Ryzen 5 5600X(560039)",
+    "url": "https://www.memorypc.fr/pc-gamer/amd-ryzen-5-560039/",
+    "prix_normal": 795,
+    "processeur": "AMD Ryzen 5 5600X",
+    "ram": "16 Go DDR4",
+    "stockage": "1 To SSD NVMe",
+    "carte_graphique": "NVIDIA GeForce RTX 5060",
+    "usage_recommande": "Gaming 1080p, e-sport"
+  },
+  {
+    "nom": "MemoryPC Gaming PC Ryzen 7 5700X(554711)",
+    "url": "https://www.memorypc.fr/pc-gamer/amd-ryzen-7-554711/",
+    "prix_normal": 1027,
+    "processeur": "AMD Ryzen 7 5700X",
+    "ram": "16 Go DDR5",
+    "stockage": "1 To SSD NVMe",
+    "carte_graphique": "NVIDIA GeForce RTX 5060 Ti",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, e-sport"
+  },
+  {
+    "nom": "MemoryPC Gaming PC Ryzen 5 (564695)",
+    "url": "https://www.memorypc.fr/pc-gamer/amd-ryzen-5-564695/",
+    "prix_normal": 1067,
+    "processeur": "AMD Ryzen 5 9600X",
+    "ram": "16 Go DDR5",
+    "stockage": "1 To SSD NVMe",
+    "carte_graphique": "RX 9060 XT 16Go",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, Gaming 4K, e-sport"
+  },
+  {
+    "nom": "MemoryPC Gaming PC Ryzen 7 7800X3D (567995)",
+    "url": "https://www.memorypc.fr/pc-gamer/amd-ryzen-7-567995/",
+    "prix_normal": 1612,
+    "processeur": "AMD Ryzen 7 7800X3D",
+    "ram": "32 Go DDR5",
+    "stockage": "1 To SSD NVMe",
+    "carte_graphique": "RX 9070 XT 16Go ",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, Gaming 4K, e-sport"
+  },
+  {
+    "nom": "PC Gamer Grosbill 1655",
+    "url": "https://www.grosbill.com/univers-gamer/pc-assembles/pc-gamer-grosbill-1655-155418.aspx",
+    "prix_normal": 649,
+    "processeur": "AMD Ryzen 5 5500",
+    "ram": "16Go DDR4",
+    "stockage": "500Go SSD Nvme",
+    "carte_graphique": "AMD RX 7600",
+    "usage_recommande": "Gaming 1080p, e-sport"
+  },
+  {
+    "nom": "PC Gamer Grosbill 1640",
+    "url": "https://www.grosbill.com/univers-gamer/pc-assembles/pc-gamer-grosbill-1640-155641.aspx",
+    "prix_normal": 1549,
+    "processeur": "Ryzen 7 8700F",
+    "ram": "32 Go DDR5",
+    "stockage": "1 To SSD NVMe",
+    "carte_graphique": "AMD RX 9070 XT",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, Gaming 4K, e-sport"
+  },
+  {
+    "nom": "PC Gamer Grosbill 1748",
+    "url": "https://www.grosbill.com/univers-gamer/pc-assembles/pc-gamer-grosbill-1748-156193.aspx",
+    "prix_normal": 1249,
+    "processeur": "Ryzen 7 5700X",
+    "ram": "16 Go DDR4",
+    "stockage": "1 To SSD NVMe",
+    "carte_graphique": "NVIDIA GeForce RTX 5070",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, e-sport"
+  },
+  {
+    "nom": "PC Gamer Cybertek 1750",
+    "url": "https://www.cybertek.fr/univers-gamer/pc-assembles/pc-gamer-cybertek-1750-157444.aspx",
+    "prix_normal": 2199,
+    "processeur": "AMD Ryzen 7 7800X3D",
+    "ram": "32 Go DDR5",
+    "stockage": "2 To SSD NVMe",
+    "carte_graphique": "NVIDIA GeForce RTX 5070 Ti",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, Gaming 4K, e-sport, streaming intensif"
+  },
+  {
+    "nom": "Gaming PC Ryzen 7 5700X DDR4 (Amazon)",
+    "url": "https://www.amazon.de/-/en/Ryzen-Gaming-5700X-DDR4-Speed/dp/B0F9X9FCVB",
+    "prix_normal": 888,
+    "processeur": "AMD Ryzen 7 5700X",
+    "ram": "16 Go DDR4",
+    "stockage": "1TB M.2 SSD",
+    "carte_graphique": "NVIDIA GeForce RTX 4060 Ti",
+    "usage_recommande": "Gaming 1080p, Gaming 1440p, e-sport"
+  }
+]

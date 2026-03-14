@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PC Finder – Trouve le PC parfait</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="landing.css">
+  <!-- Open Graph -->
+<meta property="og:title" content="PC Finder – Trouve le meilleur PC prébuild pour ton budget">
+<meta property="og:description" content="Entre ton budget et ton usage, PC Finder te recommande 1 à 2 PC prébuild optimisés parmi une sélection vérifiée.">
+<meta property="og:image" content="https://pc-finder.onrender.com/images/pc-finder-og.png">
+<meta property="og:url" content="https://pc-finder.onrender.com">
+<meta property="og:type" content="website">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="PC Finder – Générateur de PC prébuild">
+<meta name="twitter:description" content="Trouve rapidement un PC prébuild adapté à ton budget et ton usage.">
+<meta name="twitter:image" content="https://pc-finder.onrender.com/images/pc-finder-og.png">
+<!-- Privacy-friendly analytics by Plausible -->
+<script async src="https://plausible.io/js/pa-xFr0GMGuDiKJTrsqx314D.js"></script>
+<script>
+  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+  plausible.init()
+</script>
+
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+      <div class="brand"><div class="logo">PC</div><div>PC Finder</div></div>
+      <nav class="nav">
+        <a href="#why">Pourquoi</a>
+        <a href="#examples">Exemples</a>
+        <a href="#faq">FAQ</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero" id="home">
+        <h1>Le PC parfait selon ton budget, optimisé par IA</h1>
+        <p>Notre IA analyse le marché en temps réel pour sélectionner les meilleurs PC préassemblés en termes de performances, qualité et prix. Rapide, simple et gratuit.</p>
+        <div class="cta-row">
+          <a href="generator.html" class="btn">Générer un PC</a>
+          <a href="about.html" class="btn">En savoir plus</a>
+        </div>
+
+        <div class="grid" aria-hidden="true">
+          <div class="card"><h3>Optimisation immédiate</h3><p>L’IA choisit uniquement les meilleurs rapports puissance / prix.</p></div>
+          <div class="card"><h3>PC prêts à l’emploi</h3><p>Prébuilds fiables, performants et testés.</p></div>
+          <div class="card"><h3>Résultats précis</h3><p>Sélection par usage : gaming, création, IA, montage…</p></div>
+        </div>
+      </section>
+
+      <h2 class="section-title" id="why">Pourquoi choisir notre outil ?</h2>
+
+      <section id="examples">
+        <h2 class="section-title">Exemples de recommandations</h2>
+        <div class="grid">
+          <div class="card"><h3>800 € — 1080p</h3><p>RX 9060 XT : parfait pour du 1080p fluide.</p></div>
+          <div class="card"><h3>1200 € — 1440p</h3><p>RTX 5070 12Gb : idéal pour du 1440p Ultra.</p></div>
+          <div class="card"><h3>1800 € — 4K</h3><p>RX 9070 XT 16Gb : excellent rapport prix/perfs.</p></div>
+        </div>
+      </section>
+
+      <h2 class="section-title" id="faq">FAQ</h2>
+      <div class="faq-list">
+        <div class="faq-item" onclick="toggleFaq(this)"><h4>Les PC sont-ils déjà montés ?</h4><p>Oui, prêts à l’emploi dès la livraison.</p></div>
+        <div class="faq-item" onclick="toggleFaq(this)"><h4>Comment fonctionne la sélection IA ?</h4><p>Nous analysons les performances, prix, ventilation et fiabilité.</p></div>
+      </div>
+    </main>
+
+    <footer class="footer">© 2025 – PC Finder. Tous droits réservés.</footer>
+  </div>
+
+  <script>
+    function toggleFaq(el){
+      const p = el.querySelector('p');
+      const isOpen = p.style.display === 'block';
+      document.querySelectorAll('.faq-item p').forEach(x=>x.style.display='none');
+      p.style.display = isOpen ? 'none' : 'block';
+    }
+    (function(){
+      const root = document.documentElement;
+      window.addEventListener('mousemove', e=>{
+        const x = (e.clientX/window.innerWidth - 0.5) * 6;
+        const y = (e.clientY/window.innerHeight - 0.5) * 6;
+        root.style.setProperty('--mx', x + 'px');
+        root.style.setProperty('--my', y + 'px');
+      });
+    })();
+  </script>
+</body>
+</html>

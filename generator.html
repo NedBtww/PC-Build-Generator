@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Générateur de configurations – PC Finder</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="brand">
+                <div class="logo">PC</div>
+                <div>PC Finder</div>
+            </div>
+                        <nav class="nav">
+    <a href="index.html">Accueil</a>
+    <a href="about.html" class="active">À propos</a>
+</nav>
+
+        </header>
+        
+        <main>
+            <!-- Hero Section -->
+            <section class="hero">
+                <div class="hero-content">
+                    <div class="hero-left">
+                        <div class="badge-pill">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"></path>
+                            </svg>
+                        </div>
+                        <h1>PC Build<br><span class="gradient-text">Generator</span></h1>
+                        <p class="hero-description">
+                            Recommandations intelligentes des meilleurs PC préassemblés selon votre budget.
+                        </p>
+                        
+                        <div class="stats-row">
+                            <div class="stat-item">
+                                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <rect x="2" y="3" width="20" height="14" rx="2"></rect>
+                                    <line x1="8" y1="21" x2="16" y2="21"></line>
+                                    <line x1="12" y1="17" x2="12" y2="21"></line>
+                                </svg>
+                                <div>
+                                    <div class="stat-value">500+</div>
+                                    <div class="stat-label">Configurations</div>
+                                </div>
+                            </div>
+                            <div class="stat-item">
+                                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <rect x="2" y="7" width="20" height="14" rx="2"></rect>
+                                    <path d="M16 3h4v4M4 11l4-4 4 4 8-8"></path>
+                                </svg>
+                                <div>
+                                    <div class="stat-value">4K Ready</div>
+                                    <div class="stat-label">Games</div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="hero-illustration">
+                            <div class="floating-card card-1">
+                                <div class="card-icon green">●</div>
+                                <div class="card-text">
+                                    <div class="card-title">RTX 5000 Series</div>
+                                    <div class="card-subtitle">Hautes performances</div>
+                                </div>
+                            </div>
+                            <div class="floating-card card-2">
+                                <div class="card-icon purple">●</div>
+                                <div class="card-text">
+                                    <div class="card-title">Ryzen 9</div>
+                                    <div class="card-subtitle">Dernière génération</div>
+                                </div>
+                            </div>
+                            <svg class="connection-line" viewBox="0 0 200 150">
+                                <path d="M 40 20 Q 100 50, 160 30" stroke="rgba(34,197,94,0.4)" stroke-width="2" fill="none" stroke-dasharray="5,5">
+                                    <animate attributeName="stroke-dashoffset" from="0" to="10" dur="1s" repeatCount="indefinite"></animate>
+                                </path>
+                            </svg>
+                        </div>
+                    </div>
+
+                    <div class="hero-right">
+                        <div class="form-card">
+                            <div class="input-group">
+                                <label for="budget">Budget (€)</label>
+                                <input type="number" id="budget" value="1500" min="200" max="10000" placeholder="1500">
+                                
+                                <label for="usage">Usage</label>
+                                <select id="usage">
+                                    <option value="gaming 1080p">Gaming — 1080p</option>
+                                    <option value="gaming 1440p">Gaming — 1440p</option>
+                                    <option value="gaming 4k">Gaming — 4K</option>
+                                    <option value="e-sport">E-sport</option>
+                                    <option value="streaming">Streaming</option>
+                                    <option value="creation de contenu">Création de contenu</option>
+                                    <option value="multitâche">Multitâche / Productivité</option>
+                                </select>
+                                
+                                <button id="searchBtn" class="btn-primary">
+                                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <circle cx="11" cy="11" r="8"></circle>
+                                        <path d="m21 21-4.35-4.35"></path>
+                                    </svg>
+                                    Trouver ma configuration
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Results Section -->
+            <section class="results-section" id="results-section" style="display:none;">
+  <!-- Ajoute tout de suite après la balise section -->
+  <div class="global-disclaimer">
+    ⚠️ Prix gérés par les sites marchands donc les stocks et promotions peuvent varier fréquemment.
+  </div>
+
+  <div class="section-header">
+    <h2>Configurations recommandées</h2>
+    <p>Comparez les meilleures options correspondant à vos critères</p>
+  </div>
+  
+  <div id="results" class="results-grid"></div>
+</section>
+
+            
+        </main>
+        
+        <footer class="footer">
+            © 2025 PC Finder. Tous droits réservés.
+        </footer>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
